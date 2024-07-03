@@ -13,7 +13,7 @@
 [![LXC](https://img.shields.io/badge/LXC-%23333333?style=for-the-badge&logo=linux%20containers&logoColor=white&labelColor=%23333333)](https://linuxcontainers.org/)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=%232496ED)](https://www.docker.com/)
 [![Puppet](https://img.shields.io/badge/Puppet-%23ff9933?style=for-the-badge&logo=puppet&logoColor=white&labelColor=%23ff9933)](https://www.puppet.com/)
-[![Ansible](https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=puppet&logoColor=white&labelColor=%23EE0000)](https://www.ansible.com/)
+[![Ansible](https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white&color=%23EE0000)](https://www.ansible.com/)
 [![Icinga](https://img.shields.io/badge/Icinga-%2306062C?style=for-the-badge&logo=icinga&logoColor=white&labelColor=%2306062C)](https://icinga.com/)
 [![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=%23F46800)](https://grafana.com/grafana/)
 [![Bash](https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnu%20bash&logoColor=white&labelColor=grey)](https://de.wikipedia.org/wiki/Bash_(Shell))
